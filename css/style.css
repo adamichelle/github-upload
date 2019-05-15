@@ -1,0 +1,12 @@
+body {
+  background: #000000 !important;
+}
+
+.error-div {
+  display: none;
+  padding: 0.8em;
+}
+
+.output {
+  visibility: hidden;
+}
